@@ -1,0 +1,5 @@
+pulp
+simpy
+pandas
+numpy
+plotly
